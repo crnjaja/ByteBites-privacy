@@ -28,3 +28,5 @@ Here, anonymized visit data is collected for the purpose of optimizing the onlin
 ### The different types of cookies used
 To offer you the best possible experience, we use cookies on ByteBites, which are categorized into two types. Functional cookies: These cookies are essential because they enable basic functions of the website. For example, they help us remember your language preferences and ensure that you stay logged in when navigating from one page to another. Statistical cookies (tracking cookies): These cookies help us analyze visitor behavior on our website to improve its offerings and functionality. They allow us to collect anonymous information, such as the most visited pages or the time visitors spend on a given page. Enabling or disabling these statistical cookies is up to you. By enabling them, you help us further optimize our site and personalize your experience. You can find more information in the section "Data Protection Declaration for Web Analytics".
 
+### Delete data or profile
+You can use the Contact Form inside the profile tab to ask for your data or profile to be deleted.
